@@ -1,0 +1,16 @@
+:root {
+  --bg-color-pr: #009b3a;
+  --bg-color-sd: #40916c;
+  --bg-color-tr: #094214;
+
+  --bg-color-pr-light: #5fff00;
+  --bg-color-sd-light: #0aff00;
+
+  --bg-white: #d5f7d6;
+  --bg-white-pr: #69a47f;
+  --bg-white-sd: #a3f6c2;
+
+  --green: var(--bg-color-pr);
+  --yellow: #fedf00;
+  --blue: #002776;
+}

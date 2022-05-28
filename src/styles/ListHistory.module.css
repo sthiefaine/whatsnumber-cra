@@ -1,0 +1,30 @@
+.element {
+  width: 100%;
+  display: block;
+  margin: 0 auto;
+}
+.elements {
+  display: flex;
+  align-items: center;
+  width: 100%;
+  border: 1px solid black;
+  margin: 0.5rem 0;
+}
+
+.elements__informations {
+  margin-left: 1rem;
+  width: 70%;
+  padding-top: 0.2rem;
+}
+
+.elements__information {
+  padding-top: 0.3rem;
+}
+
+.elements__information__title {
+  color: #fff;
+}
+.elements__actions {
+  width: 30%;
+  margin-left: 30%;
+}

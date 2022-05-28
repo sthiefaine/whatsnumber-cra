@@ -1,0 +1,51 @@
+.container {
+  width: 100%;
+  height: 100vh;
+  height: -webkit-fill-available;
+  display: flex;
+  flex-direction: column;
+}
+
+.main {
+  background-color: #1b4332;
+  flex-grow: 1;
+  display: flex;
+  flex-direction: column;
+}
+
+.main__article {
+  margin: 0 auto;
+  width: 80%;
+  max-width: 500px;
+}
+
+.searchBar {
+  margin-top: 1rem;
+  width: 100%;
+  display: flex;
+  justify-content: center;
+}
+
+.searchBarInput {
+  display: inline;
+
+  width: 80%;
+}
+
+.button__container {
+  background: rgb(215, 218, 243);
+  border-radius: 12px;
+  display: flex;
+  flex-wrap: nowrap;
+  justify-content: space-evenly;
+
+  width: 80%;
+  margin: 0 auto;
+  margin-top: 10vh;
+  padding: 0.8rem;
+}
+
+.img__empty {
+  margin: 0 auto;
+  margin-top: 10rem;
+}

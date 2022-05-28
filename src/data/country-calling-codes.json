@@ -1,0 +1,2463 @@
+[
+  {
+    "region": "Americas",
+    "nativeName": "United States",
+    "name": "United States of America",
+    "flag": "https://restcountries.eu/data/usa.svg",
+    "capital": "Washington, D.C.",
+    "callingCodes": ["1"],
+    "alpha3Code": "USA",
+    "alpha2Code": "US"
+  },
+  {
+    "region": "Americas",
+    "nativeName": "Canada",
+    "name": "Canada",
+    "flag": "https://restcountries.eu/data/can.svg",
+    "capital": "Ottawa",
+    "callingCodes": ["1"],
+    "alpha3Code": "CAN",
+    "alpha2Code": "CA"
+  },
+
+  {
+    "region": "Americas",
+    "nativeName": "Bahamas",
+    "name": "Bahamas",
+    "flag": "https://restcountries.eu/data/bhs.svg",
+    "capital": "Nassau",
+    "callingCodes": ["1-242"],
+    "alpha3Code": "BHS",
+    "alpha2Code": "BS"
+  },
+  {
+    "region": "Americas",
+    "nativeName": "Barbados",
+    "name": "Barbados",
+    "flag": "https://restcountries.eu/data/brb.svg",
+    "capital": "Bridgetown",
+    "callingCodes": ["1-246"],
+    "alpha3Code": "BRB",
+    "alpha2Code": "BB"
+  },
+  {
+    "region": "Americas",
+    "nativeName": "Anguilla",
+    "name": "Anguilla",
+    "flag": "https://restcountries.eu/data/aia.svg",
+    "capital": "The Valley",
+    "callingCodes": ["1-264"],
+    "alpha3Code": "AIA",
+    "alpha2Code": "AI"
+  },
+  {
+    "region": "Americas",
+    "nativeName": "Antigua and Barbuda",
+    "name": "Antigua and Barbuda",
+    "flag": "https://restcountries.eu/data/atg.svg",
+    "capital": "Saint John's",
+    "callingCodes": ["1-268"],
+    "alpha3Code": "ATG",
+    "alpha2Code": "AG"
+  },
+  {
+    "region": "Americas",
+    "nativeName": "British Virgin Islands",
+    "name": "Virgin Islands (British)",
+    "flag": "https://restcountries.eu/data/vgb.svg",
+    "capital": "Road Town",
+    "callingCodes": ["1-284"],
+    "alpha3Code": "VGB",
+    "alpha2Code": "VG"
+  },
+  {
+    "region": "Americas",
+    "nativeName": "Virgin Islands of the United States",
+    "name": "Virgin Islands (U.S.)",
+    "flag": "https://restcountries.eu/data/vir.svg",
+    "capital": "Charlotte Amalie",
+    "callingCodes": ["1-340"],
+    "alpha3Code": "VIR",
+    "alpha2Code": "VI"
+  },
+  {
+    "region": "Americas",
+    "nativeName": "Cayman Islands",
+    "name": "Cayman Islands",
+    "flag": "https://restcountries.eu/data/cym.svg",
+    "capital": "George Town",
+    "callingCodes": ["1-345"],
+    "alpha3Code": "CYM",
+    "alpha2Code": "KY"
+  },
+  {
+    "region": "Americas",
+    "nativeName": "Bermuda",
+    "name": "Bermuda",
+    "flag": "https://restcountries.eu/data/bmu.svg",
+    "capital": "Hamilton",
+    "callingCodes": ["1-441"],
+    "alpha3Code": "BMU",
+    "alpha2Code": "BM"
+  },
+  {
+    "region": "Americas",
+    "nativeName": "Grenada",
+    "name": "Grenada",
+    "flag": "https://restcountries.eu/data/grd.svg",
+    "capital": "St. George's",
+    "callingCodes": ["1-473"],
+    "alpha3Code": "GRD",
+    "alpha2Code": "GD"
+  },
+  {
+    "region": "Americas",
+    "nativeName": "Turks and Caicos Islands",
+    "name": "Turks and Caicos Islands",
+    "flag": "https://restcountries.eu/data/tca.svg",
+    "capital": "Cockburn Town",
+    "callingCodes": ["1-649"],
+    "alpha3Code": "TCA",
+    "alpha2Code": "TC"
+  },
+  {
+    "region": "Americas",
+    "nativeName": "Montserrat",
+    "name": "Montserrat",
+    "flag": "https://restcountries.eu/data/msr.svg",
+    "capital": "Plymouth",
+    "callingCodes": ["1-664"],
+    "alpha3Code": "MSR",
+    "alpha2Code": "MS"
+  },
+  {
+    "region": "Oceania",
+    "nativeName": "Northern Mariana Islands",
+    "name": "Northern Mariana Islands",
+    "flag": "https://restcountries.eu/data/mnp.svg",
+    "capital": "Saipan",
+    "callingCodes": ["1-670"],
+    "alpha3Code": "MNP",
+    "alpha2Code": "MP"
+  },
+  {
+    "region": "Oceania",
+    "nativeName": "Guam",
+    "name": "Guam",
+    "flag": "https://restcountries.eu/data/gum.svg",
+    "capital": "Hagåtña",
+    "callingCodes": ["1-671"],
+    "alpha3Code": "GUM",
+    "alpha2Code": "GU"
+  },
+  {
+    "region": "Oceania",
+    "nativeName": "American Samoa",
+    "name": "American Samoa",
+    "flag": "https://restcountries.eu/data/asm.svg",
+    "capital": "Pago Pago",
+    "callingCodes": ["1-684"],
+    "alpha3Code": "ASM",
+    "alpha2Code": "AS"
+  },
+  {
+    "region": "Americas",
+    "nativeName": "Sint Maarten",
+    "name": "Sint Maarten (Dutch part)",
+    "flag": "https://restcountries.eu/data/sxm.svg",
+    "capital": "Philipsburg",
+    "callingCodes": ["1-721"],
+    "alpha3Code": "SXM",
+    "alpha2Code": "SX"
+  },
+  {
+    "region": "Americas",
+    "nativeName": "Saint Lucia",
+    "name": "Saint Lucia",
+    "flag": "https://restcountries.eu/data/lca.svg",
+    "capital": "Castries",
+    "callingCodes": ["1-758"],
+    "alpha3Code": "LCA",
+    "alpha2Code": "LC"
+  },
+  {
+    "region": "Americas",
+    "nativeName": "Dominica",
+    "name": "Dominica",
+    "flag": "https://restcountries.eu/data/dma.svg",
+    "capital": "Roseau",
+    "callingCodes": ["1-767"],
+    "alpha3Code": "DMA",
+    "alpha2Code": "DM"
+  },
+  {
+    "region": "Americas",
+    "nativeName": "Saint Vincent and the Grenadines",
+    "name": "Saint Vincent and the Grenadines",
+    "flag": "https://restcountries.eu/data/vct.svg",
+    "capital": "Kingstown",
+    "callingCodes": ["1-784"],
+    "alpha3Code": "VCT",
+    "alpha2Code": "VC"
+  },
+  {
+    "region": "Americas",
+    "nativeName": "Puerto Rico",
+    "name": "Puerto Rico",
+    "flag": "https://restcountries.eu/data/pri.svg",
+    "capital": "San Juan",
+    "callingCodes": ["1-787", "1-939"],
+    "alpha3Code": "PRI",
+    "alpha2Code": "PR"
+  },
+  {
+    "region": "Americas",
+    "nativeName": "República Dominicana",
+    "name": "Dominican Republic",
+    "flag": "https://restcountries.eu/data/dom.svg",
+    "capital": "Santo Domingo",
+    "callingCodes": ["1-809", "1-829", "1-849"],
+    "alpha3Code": "DOM",
+    "alpha2Code": "DO"
+  },
+  {
+    "region": "Americas",
+    "nativeName": "Trinidad and Tobago",
+    "name": "Trinidad and Tobago",
+    "flag": "https://restcountries.eu/data/tto.svg",
+    "capital": "Port of Spain",
+    "callingCodes": ["1-868"],
+    "alpha3Code": "TTO",
+    "alpha2Code": "TT"
+  },
+  {
+    "region": "Americas",
+    "nativeName": "Saint Kitts and Nevis",
+    "name": "Saint Kitts and Nevis",
+    "flag": "https://restcountries.eu/data/kna.svg",
+    "capital": "Basseterre",
+    "callingCodes": ["1-869"],
+    "alpha3Code": "KNA",
+    "alpha2Code": "KN"
+  },
+  {
+    "region": "Americas",
+    "nativeName": "Jamaica",
+    "name": "Jamaica",
+    "flag": "https://restcountries.eu/data/jam.svg",
+    "capital": "Kingston",
+    "callingCodes": ["1-876"],
+    "alpha3Code": "JAM",
+    "alpha2Code": "JM"
+  },
+  {
+    "region": "Africa",
+    "nativeName": "مصر‎",
+    "name": "Egypt",
+    "flag": "https://restcountries.eu/data/egy.svg",
+    "capital": "Cairo",
+    "callingCodes": ["20"],
+    "alpha3Code": "EGY",
+    "alpha2Code": "EG"
+  },
+  {
+    "region": "Africa",
+    "nativeName": "South Sudan",
+    "name": "South Sudan",
+    "flag": "https://restcountries.eu/data/ssd.svg",
+    "capital": "Juba",
+    "callingCodes": ["211"],
+    "alpha3Code": "SSD",
+    "alpha2Code": "SS"
+  },
+  {
+    "region": "Africa",
+    "nativeName": "الصحراء الغربية",
+    "name": "Western Sahara",
+    "flag": "https://restcountries.eu/data/esh.svg",
+    "capital": "El Aaiún",
+    "callingCodes": ["212"],
+    "alpha3Code": "ESH",
+    "alpha2Code": "EH"
+  },
+  {
+    "region": "Africa",
+    "nativeName": "المغرب",
+    "name": "Morocco",
+    "flag": "https://restcountries.eu/data/mar.svg",
+    "capital": "Rabat",
+    "callingCodes": ["212"],
+    "alpha3Code": "MAR",
+    "alpha2Code": "MA"
+  },
+  {
+    "region": "Africa",
+    "nativeName": "الجزائر",
+    "name": "Algeria",
+    "flag": "https://restcountries.eu/data/dza.svg",
+    "capital": "Algiers",
+    "callingCodes": ["213"],
+    "alpha3Code": "DZA",
+    "alpha2Code": "DZ"
+  },
+  {
+    "region": "Africa",
+    "nativeName": "تونس",
+    "name": "Tunisia",
+    "flag": "https://restcountries.eu/data/tun.svg",
+    "capital": "Tunis",
+    "callingCodes": ["216"],
+    "alpha3Code": "TUN",
+    "alpha2Code": "TN"
+  },
+  {
+    "region": "Africa",
+    "nativeName": "‏ليبيا",
+    "name": "Libya",
+    "flag": "https://restcountries.eu/data/lby.svg",
+    "capital": "Tripoli",
+    "callingCodes": ["218"],
+    "alpha3Code": "LBY",
+    "alpha2Code": "LY"
+  },
+  {
+    "region": "Africa",
+    "nativeName": "Gambia",
+    "name": "Gambia",
+    "flag": "https://restcountries.eu/data/gmb.svg",
+    "capital": "Banjul",
+    "callingCodes": ["220"],
+    "alpha3Code": "GMB",
+    "alpha2Code": "GM"
+  },
+  {
+    "region": "Africa",
+    "nativeName": "Sénégal",
+    "name": "Senegal",
+    "flag": "https://restcountries.eu/data/sen.svg",
+    "capital": "Dakar",
+    "callingCodes": ["221"],
+    "alpha3Code": "SEN",
+    "alpha2Code": "SN"
+  },
+  {
+    "region": "Africa",
+    "nativeName": "موريتانيا",
+    "name": "Mauritania",
+    "flag": "https://restcountries.eu/data/mrt.svg",
+    "capital": "Nouakchott",
+    "callingCodes": ["222"],
+    "alpha3Code": "MRT",
+    "alpha2Code": "MR"
+  },
+  {
+    "region": "Africa",
+    "nativeName": "Mali",
+    "name": "Mali",
+    "flag": "https://restcountries.eu/data/mli.svg",
+    "capital": "Bamako",
+    "callingCodes": ["223"],
+    "alpha3Code": "MLI",
+    "alpha2Code": "ML"
+  },
+  {
+    "region": "Africa",
+    "nativeName": "Guinée",
+    "name": "Guinea",
+    "flag": "https://restcountries.eu/data/gin.svg",
+    "capital": "Conakry",
+    "callingCodes": ["224"],
+    "alpha3Code": "GIN",
+    "alpha2Code": "GN"
+  },
+  {
+    "region": "Africa",
+    "nativeName": "Côte d'Ivoire",
+    "name": "Côte d'Ivoire",
+    "flag": "https://restcountries.eu/data/civ.svg",
+    "capital": "Yamoussoukro",
+    "callingCodes": ["225"],
+    "alpha3Code": "CIV",
+    "alpha2Code": "CI"
+  },
+  {
+    "region": "Africa",
+    "nativeName": "Burkina Faso",
+    "name": "Burkina Faso",
+    "flag": "https://restcountries.eu/data/bfa.svg",
+    "capital": "Ouagadougou",
+    "callingCodes": ["226"],
+    "alpha3Code": "BFA",
+    "alpha2Code": "BF"
+  },
+  {
+    "region": "Africa",
+    "nativeName": "Niger",
+    "name": "Niger",
+    "flag": "https://restcountries.eu/data/ner.svg",
+    "capital": "Niamey",
+    "callingCodes": ["227"],
+    "alpha3Code": "NER",
+    "alpha2Code": "NE"
+  },
+  {
+    "region": "Africa",
+    "nativeName": "Togo",
+    "name": "Togo",
+    "flag": "https://restcountries.eu/data/tgo.svg",
+    "capital": "Lomé",
+    "callingCodes": ["228"],
+    "alpha3Code": "TGO",
+    "alpha2Code": "TG"
+  },
+  {
+    "region": "Africa",
+    "nativeName": "Bénin",
+    "name": "Benin",
+    "flag": "https://restcountries.eu/data/ben.svg",
+    "capital": "Porto-Novo",
+    "callingCodes": ["229"],
+    "alpha3Code": "BEN",
+    "alpha2Code": "BJ"
+  },
+  {
+    "region": "Africa",
+    "nativeName": "Maurice",
+    "name": "Mauritius",
+    "flag": "https://restcountries.eu/data/mus.svg",
+    "capital": "Port Louis",
+    "callingCodes": ["230"],
+    "alpha3Code": "MUS",
+    "alpha2Code": "MU"
+  },
+  {
+    "region": "Africa",
+    "nativeName": "Liberia",
+    "name": "Liberia",
+    "flag": "https://restcountries.eu/data/lbr.svg",
+    "capital": "Monrovia",
+    "callingCodes": ["231"],
+    "alpha3Code": "LBR",
+    "alpha2Code": "LR"
+  },
+  {
+    "region": "Africa",
+    "nativeName": "Sierra Leone",
+    "name": "Sierra Leone",
+    "flag": "https://restcountries.eu/data/sle.svg",
+    "capital": "Freetown",
+    "callingCodes": ["232"],
+    "alpha3Code": "SLE",
+    "alpha2Code": "SL"
+  },
+  {
+    "region": "Africa",
+    "nativeName": "Ghana",
+    "name": "Ghana",
+    "flag": "https://restcountries.eu/data/gha.svg",
+    "capital": "Accra",
+    "callingCodes": ["233"],
+    "alpha3Code": "GHA",
+    "alpha2Code": "GH"
+  },
+  {
+    "region": "Africa",
+    "nativeName": "Nigeria",
+    "name": "Nigeria",
+    "flag": "https://restcountries.eu/data/nga.svg",
+    "capital": "Abuja",
+    "callingCodes": ["234"],
+    "alpha3Code": "NGA",
+    "alpha2Code": "NG"
+  },
+  {
+    "region": "Africa",
+    "nativeName": "Tchad",
+    "name": "Chad",
+    "flag": "https://restcountries.eu/data/tcd.svg",
+    "capital": "N'Djamena",
+    "callingCodes": ["235"],
+    "alpha3Code": "TCD",
+    "alpha2Code": "TD"
+  },
+  {
+    "region": "Africa",
+    "nativeName": "Ködörösêse tî Bêafrîka",
+    "name": "Central African Republic",
+    "flag": "https://restcountries.eu/data/caf.svg",
+    "capital": "Bangui",
+    "callingCodes": ["236"],
+    "alpha3Code": "CAF",
+    "alpha2Code": "CF"
+  },
+  {
+    "region": "Africa",
+    "nativeName": "Cameroon",
+    "name": "Cameroon",
+    "flag": "https://restcountries.eu/data/cmr.svg",
+    "capital": "Yaoundé",
+    "callingCodes": ["237"],
+    "alpha3Code": "CMR",
+    "alpha2Code": "CM"
+  },
+  {
+    "region": "Africa",
+    "nativeName": "Cabo Verde",
+    "name": "Cabo Verde",
+    "flag": "https://restcountries.eu/data/cpv.svg",
+    "capital": "Praia",
+    "callingCodes": ["238"],
+    "alpha3Code": "CPV",
+    "alpha2Code": "CV"
+  },
+  {
+    "region": "Africa",
+    "nativeName": "São Tomé e Príncipe",
+    "name": "Sao Tome and Principe",
+    "flag": "https://restcountries.eu/data/stp.svg",
+    "capital": "São Tomé",
+    "callingCodes": ["239"],
+    "alpha3Code": "STP",
+    "alpha2Code": "ST"
+  },
+  {
+    "region": "Africa",
+    "nativeName": "Guinea Ecuatorial",
+    "name": "Equatorial Guinea",
+    "flag": "https://restcountries.eu/data/gnq.svg",
+    "capital": "Malabo",
+    "callingCodes": ["240"],
+    "alpha3Code": "GNQ",
+    "alpha2Code": "GQ"
+  },
+  {
+    "region": "Africa",
+    "nativeName": "Gabon",
+    "name": "Gabon",
+    "flag": "https://restcountries.eu/data/gab.svg",
+    "capital": "Libreville",
+    "callingCodes": ["241"],
+    "alpha3Code": "GAB",
+    "alpha2Code": "GA"
+  },
+  {
+    "region": "Africa",
+    "nativeName": "République du Congo",
+    "name": "Congo",
+    "flag": "https://restcountries.eu/data/cog.svg",
+    "capital": "Brazzaville",
+    "callingCodes": ["242"],
+    "alpha3Code": "COG",
+    "alpha2Code": "CG"
+  },
+  {
+    "region": "Africa",
+    "nativeName": "République démocratique du Congo",
+    "name": "Congo (Democratic Republic of the)",
+    "flag": "https://restcountries.eu/data/cod.svg",
+    "capital": "Kinshasa",
+    "callingCodes": ["243"],
+    "alpha3Code": "COD",
+    "alpha2Code": "CD"
+  },
+  {
+    "region": "Africa",
+    "nativeName": "Angola",
+    "name": "Angola",
+    "flag": "https://restcountries.eu/data/ago.svg",
+    "capital": "Luanda",
+    "callingCodes": ["244"],
+    "alpha3Code": "AGO",
+    "alpha2Code": "AO"
+  },
+  {
+    "region": "Africa",
+    "nativeName": "Guiné-Bissau",
+    "name": "Guinea-Bissau",
+    "flag": "https://restcountries.eu/data/gnb.svg",
+    "capital": "Bissau",
+    "callingCodes": ["245"],
+    "alpha3Code": "GNB",
+    "alpha2Code": "GW"
+  },
+  {
+    "region": "Africa",
+    "nativeName": "British Indian Ocean Territory",
+    "name": "British Indian Ocean Territory",
+    "flag": "https://restcountries.eu/data/iot.svg",
+    "capital": "Diego Garcia",
+    "callingCodes": ["246"],
+    "alpha3Code": "IOT",
+    "alpha2Code": "IO"
+  },
+  {
+    "region": "Africa",
+    "nativeName": "Seychelles",
+    "name": "Seychelles",
+    "flag": "https://restcountries.eu/data/syc.svg",
+    "capital": "Victoria",
+    "callingCodes": ["248"],
+    "alpha3Code": "SYC",
+    "alpha2Code": "SC"
+  },
+  {
+    "region": "Africa",
+    "nativeName": "السودان",
+    "name": "Sudan",
+    "flag": "https://restcountries.eu/data/sdn.svg",
+    "capital": "Khartoum",
+    "callingCodes": ["249"],
+    "alpha3Code": "SDN",
+    "alpha2Code": "SD"
+  },
+  {
+    "region": "Africa",
+    "nativeName": "Rwanda",
+    "name": "Rwanda",
+    "flag": "https://restcountries.eu/data/rwa.svg",
+    "capital": "Kigali",
+    "callingCodes": ["250"],
+    "alpha3Code": "RWA",
+    "alpha2Code": "RW"
+  },
+  {
+    "region": "Africa",
+    "nativeName": "ኢትዮጵያ",
+    "name": "Ethiopia",
+    "flag": "https://restcountries.eu/data/eth.svg",
+    "capital": "Addis Ababa",
+    "callingCodes": ["251"],
+    "alpha3Code": "ETH",
+    "alpha2Code": "ET"
+  },
+  {
+    "region": "Africa",
+    "nativeName": "Soomaaliya",
+    "name": "Somalia",
+    "flag": "https://restcountries.eu/data/som.svg",
+    "capital": "Mogadishu",
+    "callingCodes": ["252"],
+    "alpha3Code": "SOM",
+    "alpha2Code": "SO"
+  },
+  {
+    "region": "Africa",
+    "nativeName": "Djibouti",
+    "name": "Djibouti",
+    "flag": "https://restcountries.eu/data/dji.svg",
+    "capital": "Djibouti",
+    "callingCodes": ["253"],
+    "alpha3Code": "DJI",
+    "alpha2Code": "DJ"
+  },
+  {
+    "region": "Africa",
+    "nativeName": "Kenya",
+    "name": "Kenya",
+    "flag": "https://restcountries.eu/data/ken.svg",
+    "capital": "Nairobi",
+    "callingCodes": ["254"],
+    "alpha3Code": "KEN",
+    "alpha2Code": "KE"
+  },
+  {
+    "region": "Africa",
+    "nativeName": "Tanzania",
+    "name": "Tanzania, United Republic of",
+    "flag": "https://restcountries.eu/data/tza.svg",
+    "capital": "Dodoma",
+    "callingCodes": ["255"],
+    "alpha3Code": "TZA",
+    "alpha2Code": "TZ"
+  },
+  {
+    "region": "Africa",
+    "nativeName": "Uganda",
+    "name": "Uganda",
+    "flag": "https://restcountries.eu/data/uga.svg",
+    "capital": "Kampala",
+    "callingCodes": ["256"],
+    "alpha3Code": "UGA",
+    "alpha2Code": "UG"
+  },
+  {
+    "region": "Africa",
+    "nativeName": "Burundi",
+    "name": "Burundi",
+    "flag": "https://restcountries.eu/data/bdi.svg",
+    "capital": "Bujumbura",
+    "callingCodes": ["257"],
+    "alpha3Code": "BDI",
+    "alpha2Code": "BI"
+  },
+  {
+    "region": "Africa",
+    "nativeName": "Moçambique",
+    "name": "Mozambique",
+    "flag": "https://restcountries.eu/data/moz.svg",
+    "capital": "Maputo",
+    "callingCodes": ["258"],
+    "alpha3Code": "MOZ",
+    "alpha2Code": "MZ"
+  },
+  {
+    "region": "Africa",
+    "nativeName": "Zambia",
+    "name": "Zambia",
+    "flag": "https://restcountries.eu/data/zmb.svg",
+    "capital": "Lusaka",
+    "callingCodes": ["260"],
+    "alpha3Code": "ZMB",
+    "alpha2Code": "ZM"
+  },
+  {
+    "region": "Africa",
+    "nativeName": "Madagasikara",
+    "name": "Madagascar",
+    "flag": "https://restcountries.eu/data/mdg.svg",
+    "capital": "Antananarivo",
+    "callingCodes": ["261"],
+    "alpha3Code": "MDG",
+    "alpha2Code": "MG"
+  },
+  {
+    "region": "Africa",
+    "nativeName": "La Réunion",
+    "name": "Réunion",
+    "flag": "https://restcountries.eu/data/reu.svg",
+    "capital": "Saint-Denis",
+    "callingCodes": ["262"],
+    "alpha3Code": "REU",
+    "alpha2Code": "RE"
+  },
+  {
+    "region": "Africa",
+    "nativeName": "Mayotte",
+    "name": "Mayotte",
+    "flag": "https://restcountries.eu/data/myt.svg",
+    "capital": "Mamoudzou",
+    "callingCodes": ["262"],
+    "alpha3Code": "MYT",
+    "alpha2Code": "YT"
+  },
+  {
+    "region": "Africa",
+    "nativeName": "Zimbabwe",
+    "name": "Zimbabwe",
+    "flag": "https://restcountries.eu/data/zwe.svg",
+    "capital": "Harare",
+    "callingCodes": ["263"],
+    "alpha3Code": "ZWE",
+    "alpha2Code": "ZW"
+  },
+  {
+    "region": "Africa",
+    "nativeName": "Namibia",
+    "name": "Namibia",
+    "flag": "https://restcountries.eu/data/nam.svg",
+    "capital": "Windhoek",
+    "callingCodes": ["264"],
+    "alpha3Code": "NAM",
+    "alpha2Code": "NA"
+  },
+  {
+    "region": "Africa",
+    "nativeName": "Malawi",
+    "name": "Malawi",
+    "flag": "https://restcountries.eu/data/mwi.svg",
+    "capital": "Lilongwe",
+    "callingCodes": ["265"],
+    "alpha3Code": "MWI",
+    "alpha2Code": "MW"
+  },
+  {
+    "region": "Africa",
+    "nativeName": "Lesotho",
+    "name": "Lesotho",
+    "flag": "https://restcountries.eu/data/lso.svg",
+    "capital": "Maseru",
+    "callingCodes": ["266"],
+    "alpha3Code": "LSO",
+    "alpha2Code": "LS"
+  },
+  {
+    "region": "Africa",
+    "nativeName": "Botswana",
+    "name": "Botswana",
+    "flag": "https://restcountries.eu/data/bwa.svg",
+    "capital": "Gaborone",
+    "callingCodes": ["267"],
+    "alpha3Code": "BWA",
+    "alpha2Code": "BW"
+  },
+  {
+    "region": "Africa",
+    "nativeName": "Swaziland",
+    "name": "Swaziland",
+    "flag": "https://restcountries.eu/data/swz.svg",
+    "capital": "Lobamba",
+    "callingCodes": ["268"],
+    "alpha3Code": "SWZ",
+    "alpha2Code": "SZ"
+  },
+  {
+    "region": "Africa",
+    "nativeName": "Komori",
+    "name": "Comoros",
+    "flag": "https://restcountries.eu/data/com.svg",
+    "capital": "Moroni",
+    "callingCodes": ["269"],
+    "alpha3Code": "COM",
+    "alpha2Code": "KM"
+  },
+  {
+    "region": "Africa",
+    "nativeName": "South Africa",
+    "name": "South Africa",
+    "flag": "https://restcountries.eu/data/zaf.svg",
+    "capital": "Pretoria",
+    "callingCodes": ["27"],
+    "alpha3Code": "ZAF",
+    "alpha2Code": "ZA"
+  },
+  {
+    "region": "Africa",
+    "nativeName": "Saint Helena",
+    "name": "Saint Helena, Ascension and Tristan da Cunha",
+    "flag": "https://restcountries.eu/data/shn.svg",
+    "capital": "Jamestown",
+    "callingCodes": ["290"],
+    "alpha3Code": "SHN",
+    "alpha2Code": "SH"
+  },
+  {
+    "region": "Africa",
+    "nativeName": "ኤርትራ",
+    "name": "Eritrea",
+    "flag": "https://restcountries.eu/data/eri.svg",
+    "capital": "Asmara",
+    "callingCodes": ["291"],
+    "alpha3Code": "ERI",
+    "alpha2Code": "ER"
+  },
+  {
+    "region": "Americas",
+    "nativeName": "Aruba",
+    "name": "Aruba",
+    "flag": "https://restcountries.eu/data/abw.svg",
+    "capital": "Oranjestad",
+    "callingCodes": ["297"],
+    "alpha3Code": "ABW",
+    "alpha2Code": "AW"
+  },
+  {
+    "region": "Europe",
+    "nativeName": "Føroyar",
+    "name": "Faroe Islands",
+    "flag": "https://restcountries.eu/data/fro.svg",
+    "capital": "Tórshavn",
+    "callingCodes": ["298"],
+    "alpha3Code": "FRO",
+    "alpha2Code": "FO"
+  },
+  {
+    "region": "Americas",
+    "nativeName": "Kalaallit Nunaat",
+    "name": "Greenland",
+    "flag": "https://restcountries.eu/data/grl.svg",
+    "capital": "Nuuk",
+    "callingCodes": ["299"],
+    "alpha3Code": "GRL",
+    "alpha2Code": "GL"
+  },
+  {
+    "region": "Europe",
+    "nativeName": "Ελλάδα",
+    "name": "Greece",
+    "flag": "https://restcountries.eu/data/grc.svg",
+    "capital": "Athens",
+    "callingCodes": ["30"],
+    "alpha3Code": "GRC",
+    "alpha2Code": "GR"
+  },
+  {
+    "region": "Europe",
+    "nativeName": "Nederland",
+    "name": "Netherlands",
+    "flag": "https://restcountries.eu/data/nld.svg",
+    "capital": "Amsterdam",
+    "callingCodes": ["31"],
+    "alpha3Code": "NLD",
+    "alpha2Code": "NL"
+  },
+  {
+    "region": "Europe",
+    "nativeName": "België",
+    "name": "Belgium",
+    "flag": "https://restcountries.eu/data/bel.svg",
+    "capital": "Brussels",
+    "callingCodes": ["32"],
+    "alpha3Code": "BEL",
+    "alpha2Code": "BE"
+  },
+  {
+    "region": "Europe",
+    "nativeName": "France",
+    "name": "France",
+    "flag": "https://restcountries.eu/data/fra.svg",
+    "capital": "Paris",
+    "callingCodes": ["33"],
+    "alpha3Code": "FRA",
+    "alpha2Code": "FR"
+  },
+  {
+    "region": "Europe",
+    "nativeName": "España",
+    "name": "Spain",
+    "flag": "https://restcountries.eu/data/esp.svg",
+    "capital": "Madrid",
+    "callingCodes": ["34"],
+    "alpha3Code": "ESP",
+    "alpha2Code": "ES"
+  },
+  {
+    "region": "Europe",
+    "nativeName": "Gibraltar",
+    "name": "Gibraltar",
+    "flag": "https://restcountries.eu/data/gib.svg",
+    "capital": "Gibraltar",
+    "callingCodes": ["350"],
+    "alpha3Code": "GIB",
+    "alpha2Code": "GI"
+  },
+  {
+    "region": "Europe",
+    "nativeName": "Portugal",
+    "name": "Portugal",
+    "flag": "https://restcountries.eu/data/prt.svg",
+    "capital": "Lisbon",
+    "callingCodes": ["351"],
+    "alpha3Code": "PRT",
+    "alpha2Code": "PT"
+  },
+  {
+    "region": "Europe",
+    "nativeName": "Luxembourg",
+    "name": "Luxembourg",
+    "flag": "https://restcountries.eu/data/lux.svg",
+    "capital": "Luxembourg",
+    "callingCodes": ["352"],
+    "alpha3Code": "LUX",
+    "alpha2Code": "LU"
+  },
+  {
+    "region": "Europe",
+    "nativeName": "Éire",
+    "name": "Ireland",
+    "flag": "https://restcountries.eu/data/irl.svg",
+    "capital": "Dublin",
+    "callingCodes": ["353"],
+    "alpha3Code": "IRL",
+    "alpha2Code": "IE"
+  },
+  {
+    "region": "Europe",
+    "nativeName": "Ísland",
+    "name": "Iceland",
+    "flag": "https://restcountries.eu/data/isl.svg",
+    "capital": "Reykjavík",
+    "callingCodes": ["354"],
+    "alpha3Code": "ISL",
+    "alpha2Code": "IS"
+  },
+  {
+    "region": "Europe",
+    "nativeName": "Shqipëria",
+    "name": "Albania",
+    "flag": "https://restcountries.eu/data/alb.svg",
+    "capital": "Tirana",
+    "callingCodes": ["355"],
+    "alpha3Code": "ALB",
+    "alpha2Code": "AL"
+  },
+  {
+    "region": "Europe",
+    "nativeName": "Malta",
+    "name": "Malta",
+    "flag": "https://restcountries.eu/data/mlt.svg",
+    "capital": "Valletta",
+    "callingCodes": ["356"],
+    "alpha3Code": "MLT",
+    "alpha2Code": "MT"
+  },
+  {
+    "region": "Europe",
+    "nativeName": "Κύπρος",
+    "name": "Cyprus",
+    "flag": "https://restcountries.eu/data/cyp.svg",
+    "capital": "Nicosia",
+    "callingCodes": ["357"],
+    "alpha3Code": "CYP",
+    "alpha2Code": "CY"
+  },
+  {
+    "region": "Europe",
+    "nativeName": "Suomi",
+    "name": "Finland",
+    "flag": "https://restcountries.eu/data/fin.svg",
+    "capital": "Helsinki",
+    "callingCodes": ["358"],
+    "alpha3Code": "FIN",
+    "alpha2Code": "FI"
+  },
+  {
+    "region": "Europe",
+    "nativeName": "Åland",
+    "name": "Åland Islands",
+    "flag": "https://restcountries.eu/data/ala.svg",
+    "capital": "Mariehamn",
+    "callingCodes": ["358-18"],
+    "alpha3Code": "ALA",
+    "alpha2Code": "AX"
+  },
+  {
+    "region": "Europe",
+    "nativeName": "България",
+    "name": "Bulgaria",
+    "flag": "https://restcountries.eu/data/bgr.svg",
+    "capital": "Sofia",
+    "callingCodes": ["359"],
+    "alpha3Code": "BGR",
+    "alpha2Code": "BG"
+  },
+  {
+    "region": "Europe",
+    "nativeName": "Magyarország",
+    "name": "Hungary",
+    "flag": "https://restcountries.eu/data/hun.svg",
+    "capital": "Budapest",
+    "callingCodes": ["36"],
+    "alpha3Code": "HUN",
+    "alpha2Code": "HU"
+  },
+  {
+    "region": "Europe",
+    "nativeName": "Lietuva",
+    "name": "Lithuania",
+    "flag": "https://restcountries.eu/data/ltu.svg",
+    "capital": "Vilnius",
+    "callingCodes": ["370"],
+    "alpha3Code": "LTU",
+    "alpha2Code": "LT"
+  },
+  {
+    "region": "Europe",
+    "nativeName": "Latvija",
+    "name": "Latvia",
+    "flag": "https://restcountries.eu/data/lva.svg",
+    "capital": "Riga",
+    "callingCodes": ["371"],
+    "alpha3Code": "LVA",
+    "alpha2Code": "LV"
+  },
+  {
+    "region": "Europe",
+    "nativeName": "Eesti",
+    "name": "Estonia",
+    "flag": "https://restcountries.eu/data/est.svg",
+    "capital": "Tallinn",
+    "callingCodes": ["372"],
+    "alpha3Code": "EST",
+    "alpha2Code": "EE"
+  },
+  {
+    "region": "Europe",
+    "nativeName": "Moldova",
+    "name": "Moldova (Republic of)",
+    "flag": "https://restcountries.eu/data/mda.svg",
+    "capital": "Chișinău",
+    "callingCodes": ["373"],
+    "alpha3Code": "MDA",
+    "alpha2Code": "MD"
+  },
+  {
+    "region": "Asia",
+    "nativeName": "Հայաստան",
+    "name": "Armenia",
+    "flag": "https://restcountries.eu/data/arm.svg",
+    "capital": "Yerevan",
+    "callingCodes": ["374"],
+    "alpha3Code": "ARM",
+    "alpha2Code": "AM"
+  },
+  {
+    "region": "Europe",
+    "nativeName": "Белару́сь",
+    "name": "Belarus",
+    "flag": "https://restcountries.eu/data/blr.svg",
+    "capital": "Minsk",
+    "callingCodes": ["375"],
+    "alpha3Code": "BLR",
+    "alpha2Code": "BY"
+  },
+  {
+    "region": "Europe",
+    "nativeName": "Andorra",
+    "name": "Andorra",
+    "flag": "https://restcountries.eu/data/and.svg",
+    "capital": "Andorra la Vella",
+    "callingCodes": ["376"],
+    "alpha3Code": "AND",
+    "alpha2Code": "AD"
+  },
+  {
+    "region": "Europe",
+    "nativeName": "Monaco",
+    "name": "Monaco",
+    "flag": "https://restcountries.eu/data/mco.svg",
+    "capital": "Monaco",
+    "callingCodes": ["377"],
+    "alpha3Code": "MCO",
+    "alpha2Code": "MC"
+  },
+  {
+    "region": "Europe",
+    "nativeName": "San Marino",
+    "name": "San Marino",
+    "flag": "https://restcountries.eu/data/smr.svg",
+    "capital": "City of San Marino",
+    "callingCodes": ["378"],
+    "alpha3Code": "SMR",
+    "alpha2Code": "SM"
+  },
+  {
+    "region": "Europe",
+    "nativeName": "Sancta Sedes",
+    "name": "Holy See",
+    "flag": "https://restcountries.eu/data/vat.svg",
+    "capital": "Rome",
+    "callingCodes": ["379"],
+    "alpha3Code": "VAT",
+    "alpha2Code": "VA"
+  },
+  {
+    "region": "Europe",
+    "nativeName": "Україна",
+    "name": "Ukraine",
+    "flag": "https://restcountries.eu/data/ukr.svg",
+    "capital": "Kiev",
+    "callingCodes": ["380"],
+    "alpha3Code": "UKR",
+    "alpha2Code": "UA"
+  },
+  {
+    "region": "Europe",
+    "nativeName": "Србија",
+    "name": "Serbia",
+    "flag": "https://restcountries.eu/data/srb.svg",
+    "capital": "Belgrade",
+    "callingCodes": ["381"],
+    "alpha3Code": "SRB",
+    "alpha2Code": "RS"
+  },
+  {
+    "region": "Europe",
+    "nativeName": "Црна Гора",
+    "name": "Montenegro",
+    "flag": "https://restcountries.eu/data/mne.svg",
+    "capital": "Podgorica",
+    "callingCodes": ["382"],
+    "alpha3Code": "MNE",
+    "alpha2Code": "ME"
+  },
+  {
+    "region": "Europe",
+    "nativeName": "Republika e Kosovës",
+    "name": "Republic of Kosovo",
+    "flag": "https://restcountries.eu/data/kos.svg",
+    "capital": "Pristina",
+    "callingCodes": ["383"],
+    "alpha3Code": "KOS",
+    "alpha2Code": "XK"
+  },
+  {
+    "region": "Europe",
+    "nativeName": "Hrvatska",
+    "name": "Croatia",
+    "flag": "https://restcountries.eu/data/hrv.svg",
+    "capital": "Zagreb",
+    "callingCodes": ["385"],
+    "alpha3Code": "HRV",
+    "alpha2Code": "HR"
+  },
+  {
+    "region": "Europe",
+    "nativeName": "Slovenija",
+    "name": "Slovenia",
+    "flag": "https://restcountries.eu/data/svn.svg",
+    "capital": "Ljubljana",
+    "callingCodes": ["386"],
+    "alpha3Code": "SVN",
+    "alpha2Code": "SI"
+  },
+  {
+    "region": "Europe",
+    "nativeName": "Bosna i Hercegovina",
+    "name": "Bosnia and Herzegovina",
+    "flag": "https://restcountries.eu/data/bih.svg",
+    "capital": "Sarajevo",
+    "callingCodes": ["387"],
+    "alpha3Code": "BIH",
+    "alpha2Code": "BA"
+  },
+  {
+    "region": "Europe",
+    "nativeName": "Македонија",
+    "name": "Macedonia (the former Yugoslav Republic of)",
+    "flag": "https://restcountries.eu/data/mkd.svg",
+    "capital": "Skopje",
+    "callingCodes": ["389"],
+    "alpha3Code": "MKD",
+    "alpha2Code": "MK"
+  },
+  {
+    "region": "Europe",
+    "nativeName": "Italia",
+    "name": "Italy",
+    "flag": "https://restcountries.eu/data/ita.svg",
+    "capital": "Rome",
+    "callingCodes": ["39"],
+    "alpha3Code": "ITA",
+    "alpha2Code": "IT"
+  },
+  {
+    "region": "Europe",
+    "nativeName": "România",
+    "name": "Romania",
+    "flag": "https://restcountries.eu/data/rou.svg",
+    "capital": "Bucharest",
+    "callingCodes": ["40"],
+    "alpha3Code": "ROU",
+    "alpha2Code": "RO"
+  },
+  {
+    "region": "Europe",
+    "nativeName": "Schweiz",
+    "name": "Switzerland",
+    "flag": "https://restcountries.eu/data/che.svg",
+    "capital": "Bern",
+    "callingCodes": ["41"],
+    "alpha3Code": "CHE",
+    "alpha2Code": "CH"
+  },
+  {
+    "region": "Europe",
+    "nativeName": "Česká republika",
+    "name": "Czech Republic",
+    "flag": "https://restcountries.eu/data/cze.svg",
+    "capital": "Prague",
+    "callingCodes": ["420"],
+    "alpha3Code": "CZE",
+    "alpha2Code": "CZ"
+  },
+  {
+    "region": "Europe",
+    "nativeName": "Slovensko",
+    "name": "Slovakia",
+    "flag": "https://restcountries.eu/data/svk.svg",
+    "capital": "Bratislava",
+    "callingCodes": ["421"],
+    "alpha3Code": "SVK",
+    "alpha2Code": "SK"
+  },
+  {
+    "region": "Europe",
+    "nativeName": "Liechtenstein",
+    "name": "Liechtenstein",
+    "flag": "https://restcountries.eu/data/lie.svg",
+    "capital": "Vaduz",
+    "callingCodes": ["423"],
+    "alpha3Code": "LIE",
+    "alpha2Code": "LI"
+  },
+  {
+    "region": "Europe",
+    "nativeName": "Österreich",
+    "name": "Austria",
+    "flag": "https://restcountries.eu/data/aut.svg",
+    "capital": "Vienna",
+    "callingCodes": ["43"],
+    "alpha3Code": "AUT",
+    "alpha2Code": "AT"
+  },
+  {
+    "region": "Europe",
+    "nativeName": "United Kingdom",
+    "name": "United Kingdom of Great Britain and Northern Ireland",
+    "flag": "https://restcountries.eu/data/gbr.svg",
+    "capital": "London",
+    "callingCodes": ["44"],
+    "alpha3Code": "GBR",
+    "alpha2Code": "GB"
+  },
+  {
+    "region": "Europe",
+    "nativeName": "Jersey",
+    "name": "Jersey",
+    "flag": "https://restcountries.eu/data/jey.svg",
+    "capital": "Saint Helier",
+    "callingCodes": ["44"],
+    "alpha3Code": "JEY",
+    "alpha2Code": "JE"
+  },
+  {
+    "region": "Europe",
+    "nativeName": "Isle of Man",
+    "name": "Isle of Man",
+    "flag": "https://restcountries.eu/data/imn.svg",
+    "capital": "Douglas",
+    "callingCodes": ["44"],
+    "alpha3Code": "IMN",
+    "alpha2Code": "IM"
+  },
+  {
+    "region": "Europe",
+    "nativeName": "Guernsey",
+    "name": "Guernsey",
+    "flag": "https://restcountries.eu/data/ggy.svg",
+    "capital": "St. Peter Port",
+    "callingCodes": ["44"],
+    "alpha3Code": "GGY",
+    "alpha2Code": "GG"
+  },
+  {
+    "region": "Europe",
+    "nativeName": "Danmark",
+    "name": "Denmark",
+    "flag": "https://restcountries.eu/data/dnk.svg",
+    "capital": "Copenhagen",
+    "callingCodes": ["45"],
+    "alpha3Code": "DNK",
+    "alpha2Code": "DK"
+  },
+  {
+    "region": "Europe",
+    "nativeName": "Sverige",
+    "name": "Sweden",
+    "flag": "https://restcountries.eu/data/swe.svg",
+    "capital": "Stockholm",
+    "callingCodes": ["46"],
+    "alpha3Code": "SWE",
+    "alpha2Code": "SE"
+  },
+  {
+    "region": "Europe",
+    "nativeName": "Norge",
+    "name": "Norway",
+    "flag": "https://restcountries.eu/data/nor.svg",
+    "capital": "Oslo",
+    "callingCodes": ["47"],
+    "alpha3Code": "NOR",
+    "alpha2Code": "NO"
+  },
+  {
+    "region": "Europe",
+    "nativeName": "Svalbard og Jan Mayen",
+    "name": "Svalbard and Jan Mayen",
+    "flag": "https://restcountries.eu/data/sjm.svg",
+    "capital": "Longyearbyen",
+    "callingCodes": ["4779"],
+    "alpha3Code": "SJM",
+    "alpha2Code": "SJ"
+  },
+  {
+    "region": "Europe",
+    "nativeName": "Polska",
+    "name": "Poland",
+    "flag": "https://restcountries.eu/data/pol.svg",
+    "capital": "Warsaw",
+    "callingCodes": ["48"],
+    "alpha3Code": "POL",
+    "alpha2Code": "PL"
+  },
+  {
+    "region": "Europe",
+    "nativeName": "Deutschland",
+    "name": "Germany",
+    "flag": "https://restcountries.eu/data/deu.svg",
+    "capital": "Berlin",
+    "callingCodes": ["49"],
+    "alpha3Code": "DEU",
+    "alpha2Code": "DE"
+  },
+  {
+    "region": "Americas",
+    "nativeName": "South Georgia",
+    "name": "South Georgia and the South Sandwich Islands",
+    "flag": "https://restcountries.eu/data/sgs.svg",
+    "capital": "King Edward Point",
+    "callingCodes": ["500"],
+    "alpha3Code": "SGS",
+    "alpha2Code": "GS"
+  },
+  {
+    "region": "Americas",
+    "nativeName": "Falkland Islands",
+    "name": "Falkland Islands (Malvinas)",
+    "flag": "https://restcountries.eu/data/flk.svg",
+    "capital": "Stanley",
+    "callingCodes": ["500"],
+    "alpha3Code": "FLK",
+    "alpha2Code": "FK"
+  },
+  {
+    "region": "Americas",
+    "nativeName": "Belize",
+    "name": "Belize",
+    "flag": "https://restcountries.eu/data/blz.svg",
+    "capital": "Belmopan",
+    "callingCodes": ["501"],
+    "alpha3Code": "BLZ",
+    "alpha2Code": "BZ"
+  },
+  {
+    "region": "Americas",
+    "nativeName": "Guatemala",
+    "name": "Guatemala",
+    "flag": "https://restcountries.eu/data/gtm.svg",
+    "capital": "Guatemala City",
+    "callingCodes": ["502"],
+    "alpha3Code": "GTM",
+    "alpha2Code": "GT"
+  },
+  {
+    "region": "Americas",
+    "nativeName": "El Salvador",
+    "name": "El Salvador",
+    "flag": "https://restcountries.eu/data/slv.svg",
+    "capital": "San Salvador",
+    "callingCodes": ["503"],
+    "alpha3Code": "SLV",
+    "alpha2Code": "SV"
+  },
+  {
+    "region": "Americas",
+    "nativeName": "Honduras",
+    "name": "Honduras",
+    "flag": "https://restcountries.eu/data/hnd.svg",
+    "capital": "Tegucigalpa",
+    "callingCodes": ["504"],
+    "alpha3Code": "HND",
+    "alpha2Code": "HN"
+  },
+  {
+    "region": "Americas",
+    "nativeName": "Nicaragua",
+    "name": "Nicaragua",
+    "flag": "https://restcountries.eu/data/nic.svg",
+    "capital": "Managua",
+    "callingCodes": ["505"],
+    "alpha3Code": "NIC",
+    "alpha2Code": "NI"
+  },
+  {
+    "region": "Americas",
+    "nativeName": "Costa Rica",
+    "name": "Costa Rica",
+    "flag": "https://restcountries.eu/data/cri.svg",
+    "capital": "San José",
+    "callingCodes": ["506"],
+    "alpha3Code": "CRI",
+    "alpha2Code": "CR"
+  },
+  {
+    "region": "Americas",
+    "nativeName": "Panamá",
+    "name": "Panama",
+    "flag": "https://restcountries.eu/data/pan.svg",
+    "capital": "Panama City",
+    "callingCodes": ["507"],
+    "alpha3Code": "PAN",
+    "alpha2Code": "PA"
+  },
+  {
+    "region": "Americas",
+    "nativeName": "Saint-Pierre-et-Miquelon",
+    "name": "Saint Pierre and Miquelon",
+    "flag": "https://restcountries.eu/data/spm.svg",
+    "capital": "Saint-Pierre",
+    "callingCodes": ["508"],
+    "alpha3Code": "SPM",
+    "alpha2Code": "PM"
+  },
+  {
+    "region": "Americas",
+    "nativeName": "Haïti",
+    "name": "Haiti",
+    "flag": "https://restcountries.eu/data/hti.svg",
+    "capital": "Port-au-Prince",
+    "callingCodes": ["509"],
+    "alpha3Code": "HTI",
+    "alpha2Code": "HT"
+  },
+  {
+    "region": "Americas",
+    "nativeName": "Perú",
+    "name": "Peru",
+    "flag": "https://restcountries.eu/data/per.svg",
+    "capital": "Lima",
+    "callingCodes": ["51"],
+    "alpha3Code": "PER",
+    "alpha2Code": "PE"
+  },
+  {
+    "region": "Americas",
+    "nativeName": "México",
+    "name": "Mexico",
+    "flag": "https://restcountries.eu/data/mex.svg",
+    "capital": "Mexico City",
+    "callingCodes": ["52"],
+    "alpha3Code": "MEX",
+    "alpha2Code": "MX"
+  },
+  {
+    "region": "Americas",
+    "nativeName": "Cuba",
+    "name": "Cuba",
+    "flag": "https://restcountries.eu/data/cub.svg",
+    "capital": "Havana",
+    "callingCodes": ["53"],
+    "alpha3Code": "CUB",
+    "alpha2Code": "CU"
+  },
+  {
+    "region": "Americas",
+    "nativeName": "Argentina",
+    "name": "Argentina",
+    "flag": "https://restcountries.eu/data/arg.svg",
+    "capital": "Buenos Aires",
+    "callingCodes": ["54"],
+    "alpha3Code": "ARG",
+    "alpha2Code": "AR"
+  },
+  {
+    "region": "Americas",
+    "nativeName": "Brasil",
+    "name": "Brazil",
+    "flag": "https://restcountries.eu/data/bra.svg",
+    "capital": "Brasília",
+    "callingCodes": ["55"],
+    "alpha3Code": "BRA",
+    "alpha2Code": "BR"
+  },
+  {
+    "region": "Americas",
+    "nativeName": "Chile",
+    "name": "Chile",
+    "flag": "https://restcountries.eu/data/chl.svg",
+    "capital": "Santiago",
+    "callingCodes": ["56"],
+    "alpha3Code": "CHL",
+    "alpha2Code": "CL"
+  },
+  {
+    "region": "Americas",
+    "nativeName": "Colombia",
+    "name": "Colombia",
+    "flag": "https://restcountries.eu/data/col.svg",
+    "capital": "Bogotá",
+    "callingCodes": ["57"],
+    "alpha3Code": "COL",
+    "alpha2Code": "CO"
+  },
+  {
+    "region": "Americas",
+    "nativeName": "Venezuela",
+    "name": "Venezuela (Bolivarian Republic of)",
+    "flag": "https://restcountries.eu/data/ven.svg",
+    "capital": "Caracas",
+    "callingCodes": ["58"],
+    "alpha3Code": "VEN",
+    "alpha2Code": "VE"
+  },
+  {
+    "region": "Americas",
+    "nativeName": "Saint-Martin",
+    "name": "Saint Martin (French part)",
+    "flag": "https://restcountries.eu/data/maf.svg",
+    "capital": "Marigot",
+    "callingCodes": ["590"],
+    "alpha3Code": "MAF",
+    "alpha2Code": "MF"
+  },
+  {
+    "region": "Americas",
+    "nativeName": "Saint-Barthélemy",
+    "name": "Saint Barthélemy",
+    "flag": "https://restcountries.eu/data/blm.svg",
+    "capital": "Gustavia",
+    "callingCodes": ["590"],
+    "alpha3Code": "BLM",
+    "alpha2Code": "BL"
+  },
+  {
+    "region": "Americas",
+    "nativeName": "Guadeloupe",
+    "name": "Guadeloupe",
+    "flag": "https://restcountries.eu/data/glp.svg",
+    "capital": "Basse-Terre",
+    "callingCodes": ["590"],
+    "alpha3Code": "GLP",
+    "alpha2Code": "GP"
+  },
+  {
+    "region": "Americas",
+    "nativeName": "Bolivia",
+    "name": "Bolivia (Plurinational State of)",
+    "flag": "https://restcountries.eu/data/bol.svg",
+    "capital": "Sucre",
+    "callingCodes": ["591"],
+    "alpha3Code": "BOL",
+    "alpha2Code": "BO"
+  },
+  {
+    "region": "Americas",
+    "nativeName": "Guyana",
+    "name": "Guyana",
+    "flag": "https://restcountries.eu/data/guy.svg",
+    "capital": "Georgetown",
+    "callingCodes": ["592"],
+    "alpha3Code": "GUY",
+    "alpha2Code": "GY"
+  },
+  {
+    "region": "Americas",
+    "nativeName": "Ecuador",
+    "name": "Ecuador",
+    "flag": "https://restcountries.eu/data/ecu.svg",
+    "capital": "Quito",
+    "callingCodes": ["593"],
+    "alpha3Code": "ECU",
+    "alpha2Code": "EC"
+  },
+  {
+    "region": "Americas",
+    "nativeName": "Guyane française",
+    "name": "French Guiana",
+    "flag": "https://restcountries.eu/data/guf.svg",
+    "capital": "Cayenne",
+    "callingCodes": ["594"],
+    "alpha3Code": "GUF",
+    "alpha2Code": "GF"
+  },
+  {
+    "region": "Americas",
+    "nativeName": "Paraguay",
+    "name": "Paraguay",
+    "flag": "https://restcountries.eu/data/pry.svg",
+    "capital": "Asunción",
+    "callingCodes": ["595"],
+    "alpha3Code": "PRY",
+    "alpha2Code": "PY"
+  },
+  {
+    "region": "Americas",
+    "nativeName": "Martinique",
+    "name": "Martinique",
+    "flag": "https://restcountries.eu/data/mtq.svg",
+    "capital": "Fort-de-France",
+    "callingCodes": ["596"],
+    "alpha3Code": "MTQ",
+    "alpha2Code": "MQ"
+  },
+  {
+    "region": "Americas",
+    "nativeName": "Suriname",
+    "name": "Suriname",
+    "flag": "https://restcountries.eu/data/sur.svg",
+    "capital": "Paramaribo",
+    "callingCodes": ["597"],
+    "alpha3Code": "SUR",
+    "alpha2Code": "SR"
+  },
+  {
+    "region": "Americas",
+    "nativeName": "Uruguay",
+    "name": "Uruguay",
+    "flag": "https://restcountries.eu/data/ury.svg",
+    "capital": "Montevideo",
+    "callingCodes": ["598"],
+    "alpha3Code": "URY",
+    "alpha2Code": "UY"
+  },
+  {
+    "region": "Americas",
+    "nativeName": "Curaçao",
+    "name": "Curaçao",
+    "flag": "https://restcountries.eu/data/cuw.svg",
+    "capital": "Willemstad",
+    "callingCodes": ["599"],
+    "alpha3Code": "CUW",
+    "alpha2Code": "CW"
+  },
+  {
+    "region": "Americas",
+    "nativeName": "Bonaire",
+    "name": "Bonaire, Sint Eustatius and Saba",
+    "flag": "https://restcountries.eu/data/bes.svg",
+    "capital": "Kralendijk",
+    "callingCodes": ["5997"],
+    "alpha3Code": "BES",
+    "alpha2Code": "BQ"
+  },
+  {
+    "region": "Asia",
+    "nativeName": "Malaysia",
+    "name": "Malaysia",
+    "flag": "https://restcountries.eu/data/mys.svg",
+    "capital": "Kuala Lumpur",
+    "callingCodes": ["60"],
+    "alpha3Code": "MYS",
+    "alpha2Code": "MY"
+  },
+  {
+    "region": "Oceania",
+    "nativeName": "Cocos (Keeling) Islands",
+    "name": "Cocos (Keeling) Islands",
+    "flag": "https://restcountries.eu/data/cck.svg",
+    "capital": "West Island",
+    "callingCodes": ["61"],
+    "alpha3Code": "CCK",
+    "alpha2Code": "CC"
+  },
+  {
+    "region": "Oceania",
+    "nativeName": "Christmas Island",
+    "name": "Christmas Island",
+    "flag": "https://restcountries.eu/data/cxr.svg",
+    "capital": "Flying Fish Cove",
+    "callingCodes": ["61"],
+    "alpha3Code": "CXR",
+    "alpha2Code": "CX"
+  },
+  {
+    "region": "Oceania",
+    "nativeName": "Australia",
+    "name": "Australia",
+    "flag": "https://restcountries.eu/data/aus.svg",
+    "capital": "Canberra",
+    "callingCodes": ["61"],
+    "alpha3Code": "AUS",
+    "alpha2Code": "AU"
+  },
+  {
+    "region": "Asia",
+    "nativeName": "Indonesia",
+    "name": "Indonesia",
+    "flag": "https://restcountries.eu/data/idn.svg",
+    "capital": "Jakarta",
+    "callingCodes": ["62"],
+    "alpha3Code": "IDN",
+    "alpha2Code": "ID"
+  },
+  {
+    "region": "Asia",
+    "nativeName": "Pilipinas",
+    "name": "Philippines",
+    "flag": "https://restcountries.eu/data/phl.svg",
+    "capital": "Manila",
+    "callingCodes": ["63"],
+    "alpha3Code": "PHL",
+    "alpha2Code": "PH"
+  },
+  {
+    "region": "Oceania",
+    "nativeName": "Pitcairn Islands",
+    "name": "Pitcairn",
+    "flag": "https://restcountries.eu/data/pcn.svg",
+    "capital": "Adamstown",
+    "callingCodes": ["64"],
+    "alpha3Code": "PCN",
+    "alpha2Code": "PN"
+  },
+  {
+    "region": "Oceania",
+    "nativeName": "New Zealand",
+    "name": "New Zealand",
+    "flag": "https://restcountries.eu/data/nzl.svg",
+    "capital": "Wellington",
+    "callingCodes": ["64"],
+    "alpha3Code": "NZL",
+    "alpha2Code": "NZ"
+  },
+  {
+    "region": "Asia",
+    "nativeName": "Singapore",
+    "name": "Singapore",
+    "flag": "https://restcountries.eu/data/sgp.svg",
+    "capital": "Singapore",
+    "callingCodes": ["65"],
+    "alpha3Code": "SGP",
+    "alpha2Code": "SG"
+  },
+  {
+    "region": "Asia",
+    "nativeName": "ประเทศไทย",
+    "name": "Thailand",
+    "flag": "https://restcountries.eu/data/tha.svg",
+    "capital": "Bangkok",
+    "callingCodes": ["66"],
+    "alpha3Code": "THA",
+    "alpha2Code": "TH"
+  },
+  {
+    "region": "Asia",
+    "nativeName": "Timor-Leste",
+    "name": "Timor-Leste",
+    "flag": "https://restcountries.eu/data/tls.svg",
+    "capital": "Dili",
+    "callingCodes": ["670"],
+    "alpha3Code": "TLS",
+    "alpha2Code": "TL"
+  },
+  {
+    "region": "Oceania",
+    "nativeName": "Norfolk Island",
+    "name": "Norfolk Island",
+    "flag": "https://restcountries.eu/data/nfk.svg",
+    "capital": "Kingston",
+    "callingCodes": ["672"],
+    "alpha3Code": "NFK",
+    "alpha2Code": "NF"
+  },
+  {
+    "region": "Polar",
+    "nativeName": "Antarctica",
+    "name": "Antarctica",
+    "flag": "https://restcountries.eu/data/ata.svg",
+    "capital": "",
+    "callingCodes": ["672"],
+    "alpha3Code": "ATA",
+    "alpha2Code": "AQ"
+  },
+  {
+    "region": "Asia",
+    "nativeName": "Negara Brunei Darussalam",
+    "name": "Brunei Darussalam",
+    "flag": "https://restcountries.eu/data/brn.svg",
+    "capital": "Bandar Seri Begawan",
+    "callingCodes": ["673"],
+    "alpha3Code": "BRN",
+    "alpha2Code": "BN"
+  },
+  {
+    "region": "Oceania",
+    "nativeName": "Nauru",
+    "name": "Nauru",
+    "flag": "https://restcountries.eu/data/nru.svg",
+    "capital": "Yaren",
+    "callingCodes": ["674"],
+    "alpha3Code": "NRU",
+    "alpha2Code": "NR"
+  },
+  {
+    "region": "Oceania",
+    "nativeName": "Papua Niugini",
+    "name": "Papua New Guinea",
+    "flag": "https://restcountries.eu/data/png.svg",
+    "capital": "Port Moresby",
+    "callingCodes": ["675"],
+    "alpha3Code": "PNG",
+    "alpha2Code": "PG"
+  },
+  {
+    "region": "Oceania",
+    "nativeName": "Tonga",
+    "name": "Tonga",
+    "flag": "https://restcountries.eu/data/ton.svg",
+    "capital": "Nuku'alofa",
+    "callingCodes": ["676"],
+    "alpha3Code": "TON",
+    "alpha2Code": "TO"
+  },
+  {
+    "region": "Oceania",
+    "nativeName": "Solomon Islands",
+    "name": "Solomon Islands",
+    "flag": "https://restcountries.eu/data/slb.svg",
+    "capital": "Honiara",
+    "callingCodes": ["677"],
+    "alpha3Code": "SLB",
+    "alpha2Code": "SB"
+  },
+  {
+    "region": "Oceania",
+    "nativeName": "Vanuatu",
+    "name": "Vanuatu",
+    "flag": "https://restcountries.eu/data/vut.svg",
+    "capital": "Port Vila",
+    "callingCodes": ["678"],
+    "alpha3Code": "VUT",
+    "alpha2Code": "VU"
+  },
+  {
+    "region": "Oceania",
+    "nativeName": "Fiji",
+    "name": "Fiji",
+    "flag": "https://restcountries.eu/data/fji.svg",
+    "capital": "Suva",
+    "callingCodes": ["679"],
+    "alpha3Code": "FJI",
+    "alpha2Code": "FJ"
+  },
+  {
+    "region": "Oceania",
+    "nativeName": "Palau",
+    "name": "Palau",
+    "flag": "https://restcountries.eu/data/plw.svg",
+    "capital": "Ngerulmud",
+    "callingCodes": ["680"],
+    "alpha3Code": "PLW",
+    "alpha2Code": "PW"
+  },
+  {
+    "region": "Oceania",
+    "nativeName": "Wallis et Futuna",
+    "name": "Wallis and Futuna",
+    "flag": "https://restcountries.eu/data/wlf.svg",
+    "capital": "Mata-Utu",
+    "callingCodes": ["681"],
+    "alpha3Code": "WLF",
+    "alpha2Code": "WF"
+  },
+  {
+    "region": "Oceania",
+    "nativeName": "Cook Islands",
+    "name": "Cook Islands",
+    "flag": "https://restcountries.eu/data/cok.svg",
+    "capital": "Avarua",
+    "callingCodes": ["682"],
+    "alpha3Code": "COK",
+    "alpha2Code": "CK"
+  },
+  {
+    "region": "Oceania",
+    "nativeName": "Niuē",
+    "name": "Niue",
+    "flag": "https://restcountries.eu/data/niu.svg",
+    "capital": "Alofi",
+    "callingCodes": ["683"],
+    "alpha3Code": "NIU",
+    "alpha2Code": "NU"
+  },
+  {
+    "region": "Oceania",
+    "nativeName": "Samoa",
+    "name": "Samoa",
+    "flag": "https://restcountries.eu/data/wsm.svg",
+    "capital": "Apia",
+    "callingCodes": ["685"],
+    "alpha3Code": "WSM",
+    "alpha2Code": "WS"
+  },
+  {
+    "region": "Oceania",
+    "nativeName": "Kiribati",
+    "name": "Kiribati",
+    "flag": "https://restcountries.eu/data/kir.svg",
+    "capital": "South Tarawa",
+    "callingCodes": ["686"],
+    "alpha3Code": "KIR",
+    "alpha2Code": "KI"
+  },
+  {
+    "region": "Oceania",
+    "nativeName": "Nouvelle-Calédonie",
+    "name": "New Caledonia",
+    "flag": "https://restcountries.eu/data/ncl.svg",
+    "capital": "Nouméa",
+    "callingCodes": ["687"],
+    "alpha3Code": "NCL",
+    "alpha2Code": "NC"
+  },
+  {
+    "region": "Oceania",
+    "nativeName": "Tuvalu",
+    "name": "Tuvalu",
+    "flag": "https://restcountries.eu/data/tuv.svg",
+    "capital": "Funafuti",
+    "callingCodes": ["688"],
+    "alpha3Code": "TUV",
+    "alpha2Code": "TV"
+  },
+  {
+    "region": "Oceania",
+    "nativeName": "Polynésie française",
+    "name": "French Polynesia",
+    "flag": "https://restcountries.eu/data/pyf.svg",
+    "capital": "Papeetē",
+    "callingCodes": ["689"],
+    "alpha3Code": "PYF",
+    "alpha2Code": "PF"
+  },
+  {
+    "region": "Oceania",
+    "nativeName": "Tokelau",
+    "name": "Tokelau",
+    "flag": "https://restcountries.eu/data/tkl.svg",
+    "capital": "Fakaofo",
+    "callingCodes": ["690"],
+    "alpha3Code": "TKL",
+    "alpha2Code": "TK"
+  },
+  {
+    "region": "Oceania",
+    "nativeName": "Micronesia",
+    "name": "Micronesia (Federated States of)",
+    "flag": "https://restcountries.eu/data/fsm.svg",
+    "capital": "Palikir",
+    "callingCodes": ["691"],
+    "alpha3Code": "FSM",
+    "alpha2Code": "FM"
+  },
+  {
+    "region": "Oceania",
+    "nativeName": "M̧ajeļ",
+    "name": "Marshall Islands",
+    "flag": "https://restcountries.eu/data/mhl.svg",
+    "capital": "Majuro",
+    "callingCodes": ["692"],
+    "alpha3Code": "MHL",
+    "alpha2Code": "MH"
+  },
+  {
+    "region": "Europe",
+    "nativeName": "Россия",
+    "name": "Russian Federation",
+    "flag": "https://restcountries.eu/data/rus.svg",
+    "capital": "Moscow",
+    "callingCodes": ["7"],
+    "alpha3Code": "RUS",
+    "alpha2Code": "RU"
+  },
+  {
+    "region": "Asia",
+    "nativeName": "Қазақстан",
+    "name": "Kazakhstan",
+    "flag": "https://restcountries.eu/data/kaz.svg",
+    "capital": "Astana",
+    "callingCodes": ["76", "77"],
+    "alpha3Code": "KAZ",
+    "alpha2Code": "KZ"
+  },
+  {
+    "region": "Asia",
+    "nativeName": "日本",
+    "name": "Japan",
+    "flag": "https://restcountries.eu/data/jpn.svg",
+    "capital": "Tokyo",
+    "callingCodes": ["81"],
+    "alpha3Code": "JPN",
+    "alpha2Code": "JP"
+  },
+  {
+    "region": "Asia",
+    "nativeName": "대한민국",
+    "name": "Korea (Republic of)",
+    "flag": "https://restcountries.eu/data/kor.svg",
+    "capital": "Seoul",
+    "callingCodes": ["82"],
+    "alpha3Code": "KOR",
+    "alpha2Code": "KR"
+  },
+  {
+    "region": "Asia",
+    "nativeName": "Việt Nam",
+    "name": "Viet Nam",
+    "flag": "https://restcountries.eu/data/vnm.svg",
+    "capital": "Hanoi",
+    "callingCodes": ["84"],
+    "alpha3Code": "VNM",
+    "alpha2Code": "VN"
+  },
+  {
+    "region": "Asia",
+    "nativeName": "북한",
+    "name": "Korea (Democratic People's Republic of)",
+    "flag": "https://restcountries.eu/data/prk.svg",
+    "capital": "Pyongyang",
+    "callingCodes": ["850"],
+    "alpha3Code": "PRK",
+    "alpha2Code": "KP"
+  },
+  {
+    "region": "Asia",
+    "nativeName": "香港",
+    "name": "Hong Kong",
+    "flag": "https://restcountries.eu/data/hkg.svg",
+    "capital": "City of Victoria",
+    "callingCodes": ["852"],
+    "alpha3Code": "HKG",
+    "alpha2Code": "HK"
+  },
+  {
+    "region": "Asia",
+    "nativeName": "澳門",
+    "name": "Macao",
+    "flag": "https://restcountries.eu/data/mac.svg",
+    "capital": "",
+    "callingCodes": ["853"],
+    "alpha3Code": "MAC",
+    "alpha2Code": "MO"
+  },
+  {
+    "region": "Asia",
+    "nativeName": "Kâmpŭchéa",
+    "name": "Cambodia",
+    "flag": "https://restcountries.eu/data/khm.svg",
+    "capital": "Phnom Penh",
+    "callingCodes": ["855"],
+    "alpha3Code": "KHM",
+    "alpha2Code": "KH"
+  },
+  {
+    "region": "Asia",
+    "nativeName": "ສປປລາວ",
+    "name": "Lao People's Democratic Republic",
+    "flag": "https://restcountries.eu/data/lao.svg",
+    "capital": "Vientiane",
+    "callingCodes": ["856"],
+    "alpha3Code": "LAO",
+    "alpha2Code": "LA"
+  },
+  {
+    "region": "Asia",
+    "nativeName": "中国",
+    "name": "China",
+    "flag": "https://restcountries.eu/data/chn.svg",
+    "capital": "Beijing",
+    "callingCodes": ["86"],
+    "alpha3Code": "CHN",
+    "alpha2Code": "CN"
+  },
+  {
+    "region": "Asia",
+    "nativeName": "Bangladesh",
+    "name": "Bangladesh",
+    "flag": "https://restcountries.eu/data/bgd.svg",
+    "capital": "Dhaka",
+    "callingCodes": ["880"],
+    "alpha3Code": "BGD",
+    "alpha2Code": "BD"
+  },
+  {
+    "region": "Asia",
+    "nativeName": "臺灣",
+    "name": "Taiwan",
+    "flag": "https://restcountries.eu/data/twn.svg",
+    "capital": "Taipei",
+    "callingCodes": ["886"],
+    "alpha3Code": "TWN",
+    "alpha2Code": "TW"
+  },
+  {
+    "region": "Asia",
+    "nativeName": "Türkiye",
+    "name": "Turkey",
+    "flag": "https://restcountries.eu/data/tur.svg",
+    "capital": "Ankara",
+    "callingCodes": ["90"],
+    "alpha3Code": "TUR",
+    "alpha2Code": "TR"
+  },
+  {
+    "region": "Asia",
+    "nativeName": "भारत",
+    "name": "India",
+    "flag": "https://restcountries.eu/data/ind.svg",
+    "capital": "New Delhi",
+    "callingCodes": ["91"],
+    "alpha3Code": "IND",
+    "alpha2Code": "IN"
+  },
+  {
+    "region": "Asia",
+    "nativeName": "Pakistan",
+    "name": "Pakistan",
+    "flag": "https://restcountries.eu/data/pak.svg",
+    "capital": "Islamabad",
+    "callingCodes": ["92"],
+    "alpha3Code": "PAK",
+    "alpha2Code": "PK"
+  },
+  {
+    "region": "Asia",
+    "nativeName": "افغانستان",
+    "name": "Afghanistan",
+    "flag": "https://restcountries.eu/data/afg.svg",
+    "capital": "Kabul",
+    "callingCodes": ["93"],
+    "alpha3Code": "AFG",
+    "alpha2Code": "AF"
+  },
+  {
+    "region": "Asia",
+    "nativeName": "śrī laṃkāva",
+    "name": "Sri Lanka",
+    "flag": "https://restcountries.eu/data/lka.svg",
+    "capital": "Colombo",
+    "callingCodes": ["94"],
+    "alpha3Code": "LKA",
+    "alpha2Code": "LK"
+  },
+  {
+    "region": "Asia",
+    "nativeName": "Myanma",
+    "name": "Myanmar",
+    "flag": "https://restcountries.eu/data/mmr.svg",
+    "capital": "Naypyidaw",
+    "callingCodes": ["95"],
+    "alpha3Code": "MMR",
+    "alpha2Code": "MM"
+  },
+  {
+    "region": "Asia",
+    "nativeName": "Maldives",
+    "name": "Maldives",
+    "flag": "https://restcountries.eu/data/mdv.svg",
+    "capital": "Malé",
+    "callingCodes": ["960"],
+    "alpha3Code": "MDV",
+    "alpha2Code": "MV"
+  },
+  {
+    "region": "Asia",
+    "nativeName": "لبنان",
+    "name": "Lebanon",
+    "flag": "https://restcountries.eu/data/lbn.svg",
+    "capital": "Beirut",
+    "callingCodes": ["961"],
+    "alpha3Code": "LBN",
+    "alpha2Code": "LB"
+  },
+  {
+    "region": "Asia",
+    "nativeName": "الأردن",
+    "name": "Jordan",
+    "flag": "https://restcountries.eu/data/jor.svg",
+    "capital": "Amman",
+    "callingCodes": ["962"],
+    "alpha3Code": "JOR",
+    "alpha2Code": "JO"
+  },
+  {
+    "region": "Asia",
+    "nativeName": "سوريا",
+    "name": "Syrian Arab Republic",
+    "flag": "https://restcountries.eu/data/syr.svg",
+    "capital": "Damascus",
+    "callingCodes": ["963"],
+    "alpha3Code": "SYR",
+    "alpha2Code": "SY"
+  },
+  {
+    "region": "Asia",
+    "nativeName": "العراق",
+    "name": "Iraq",
+    "flag": "https://restcountries.eu/data/irq.svg",
+    "capital": "Baghdad",
+    "callingCodes": ["964"],
+    "alpha3Code": "IRQ",
+    "alpha2Code": "IQ"
+  },
+  {
+    "region": "Asia",
+    "nativeName": "الكويت",
+    "name": "Kuwait",
+    "flag": "https://restcountries.eu/data/kwt.svg",
+    "capital": "Kuwait City",
+    "callingCodes": ["965"],
+    "alpha3Code": "KWT",
+    "alpha2Code": "KW"
+  },
+  {
+    "region": "Asia",
+    "nativeName": "العربية السعودية",
+    "name": "Saudi Arabia",
+    "flag": "https://restcountries.eu/data/sau.svg",
+    "capital": "Riyadh",
+    "callingCodes": ["966"],
+    "alpha3Code": "SAU",
+    "alpha2Code": "SA"
+  },
+  {
+    "region": "Asia",
+    "nativeName": "اليَمَن",
+    "name": "Yemen",
+    "flag": "https://restcountries.eu/data/yem.svg",
+    "capital": "Sana'a",
+    "callingCodes": ["967"],
+    "alpha3Code": "YEM",
+    "alpha2Code": "YE"
+  },
+  {
+    "region": "Asia",
+    "nativeName": "عمان",
+    "name": "Oman",
+    "flag": "https://restcountries.eu/data/omn.svg",
+    "capital": "Muscat",
+    "callingCodes": ["968"],
+    "alpha3Code": "OMN",
+    "alpha2Code": "OM"
+  },
+  {
+    "region": "Asia",
+    "nativeName": "فلسطين",
+    "name": "Palestine, State of",
+    "flag": "https://restcountries.eu/data/pse.svg",
+    "capital": "Ramallah",
+    "callingCodes": ["970"],
+    "alpha3Code": "PSE",
+    "alpha2Code": "PS"
+  },
+  {
+    "region": "Asia",
+    "nativeName": "دولة الإمارات العربية المتحدة",
+    "name": "United Arab Emirates",
+    "flag": "https://restcountries.eu/data/are.svg",
+    "capital": "Abu Dhabi",
+    "callingCodes": ["971"],
+    "alpha3Code": "ARE",
+    "alpha2Code": "AE"
+  },
+  {
+    "region": "Asia",
+    "nativeName": "יִשְׂרָאֵל",
+    "name": "Israel",
+    "flag": "https://restcountries.eu/data/isr.svg",
+    "capital": "Jerusalem",
+    "callingCodes": ["972"],
+    "alpha3Code": "ISR",
+    "alpha2Code": "IL"
+  },
+  {
+    "region": "Asia",
+    "nativeName": "‏البحرين",
+    "name": "Bahrain",
+    "flag": "https://restcountries.eu/data/bhr.svg",
+    "capital": "Manama",
+    "callingCodes": ["973"],
+    "alpha3Code": "BHR",
+    "alpha2Code": "BH"
+  },
+  {
+    "region": "Asia",
+    "nativeName": "قطر",
+    "name": "Qatar",
+    "flag": "https://restcountries.eu/data/qat.svg",
+    "capital": "Doha",
+    "callingCodes": ["974"],
+    "alpha3Code": "QAT",
+    "alpha2Code": "QA"
+  },
+  {
+    "region": "Asia",
+    "nativeName": "ʼbrug-yul",
+    "name": "Bhutan",
+    "flag": "https://restcountries.eu/data/btn.svg",
+    "capital": "Thimphu",
+    "callingCodes": ["975"],
+    "alpha3Code": "BTN",
+    "alpha2Code": "BT"
+  },
+  {
+    "region": "Asia",
+    "nativeName": "Монгол улс",
+    "name": "Mongolia",
+    "flag": "https://restcountries.eu/data/mng.svg",
+    "capital": "Ulan Bator",
+    "callingCodes": ["976"],
+    "alpha3Code": "MNG",
+    "alpha2Code": "MN"
+  },
+  {
+    "region": "Asia",
+    "nativeName": "नेपाल",
+    "name": "Nepal",
+    "flag": "https://restcountries.eu/data/npl.svg",
+    "capital": "Kathmandu",
+    "callingCodes": ["977"],
+    "alpha3Code": "NPL",
+    "alpha2Code": "NP"
+  },
+  {
+    "region": "Asia",
+    "nativeName": "ایران",
+    "name": "Iran (Islamic Republic of)",
+    "flag": "https://restcountries.eu/data/irn.svg",
+    "capital": "Tehran",
+    "callingCodes": ["98"],
+    "alpha3Code": "IRN",
+    "alpha2Code": "IR"
+  },
+  {
+    "region": "Asia",
+    "nativeName": "Тоҷикистон",
+    "name": "Tajikistan",
+    "flag": "https://restcountries.eu/data/tjk.svg",
+    "capital": "Dushanbe",
+    "callingCodes": ["992"],
+    "alpha3Code": "TJK",
+    "alpha2Code": "TJ"
+  },
+  {
+    "region": "Asia",
+    "nativeName": "Türkmenistan",
+    "name": "Turkmenistan",
+    "flag": "https://restcountries.eu/data/tkm.svg",
+    "capital": "Ashgabat",
+    "callingCodes": ["993"],
+    "alpha3Code": "TKM",
+    "alpha2Code": "TM"
+  },
+  {
+    "region": "Asia",
+    "nativeName": "Azərbaycan",
+    "name": "Azerbaijan",
+    "flag": "https://restcountries.eu/data/aze.svg",
+    "capital": "Baku",
+    "callingCodes": ["994"],
+    "alpha3Code": "AZE",
+    "alpha2Code": "AZ"
+  },
+  {
+    "region": "Asia",
+    "nativeName": "საქართველო",
+    "name": "Georgia",
+    "flag": "https://restcountries.eu/data/geo.svg",
+    "capital": "Tbilisi",
+    "callingCodes": ["995"],
+    "alpha3Code": "GEO",
+    "alpha2Code": "GE"
+  },
+  {
+    "region": "Asia",
+    "nativeName": "Кыргызстан",
+    "name": "Kyrgyzstan",
+    "flag": "https://restcountries.eu/data/kgz.svg",
+    "capital": "Bishkek",
+    "callingCodes": ["996"],
+    "alpha3Code": "KGZ",
+    "alpha2Code": "KG"
+  },
+  {
+    "region": "Asia",
+    "nativeName": "O‘zbekiston",
+    "name": "Uzbekistan",
+    "flag": "https://restcountries.eu/data/uzb.svg",
+    "capital": "Tashkent",
+    "callingCodes": ["998"],
+    "alpha3Code": "UZB",
+    "alpha2Code": "UZ"
+  }
+]
