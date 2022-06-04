@@ -34,6 +34,12 @@ export default function ChatButton() {
   return (
     <>
       {disabled && (
+      <a
+        href={whatsappUrl}
+        className="a--nostyle"
+        rel="noopener noreferrer"
+        target="_blank"
+      >
         <button
           disabled={disabled}
           className={styles.button}
