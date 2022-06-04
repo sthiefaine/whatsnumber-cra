@@ -46,7 +46,7 @@ export default function CopyButton() {
     <>
       <CopyToClipboard text={whatsappUrl} onCopy={() => handleCopy()}>
         <button className={styles.button} disabled={disabled}>
-          <p>{copy ? "Copied ✓" : "Copy ⧉"}</p>
+          <p>{copy ? "Copied 🎉" : `Copy Link ⧉`}</p>
         </button>
       </CopyToClipboard>
     </>
