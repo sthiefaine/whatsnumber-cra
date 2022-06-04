@@ -33,6 +33,7 @@ export default function ChatButton() {
 
   return (
     <>
+      {disabled && (
       <a
         href={whatsappUrl}
         className="a--nostyle"
@@ -46,8 +47,25 @@ export default function ChatButton() {
         >
           <p>Chat</p>
           <WhatsAppIcon />
-        </button>{" "}
-      </a>
+        </button>
+      )}
+      {!disabled && (
+        <a
+          href={whatsappUrl}
+          className="a--nostyle"
+          rel="noopener noreferrer"
+          target="_blank"
+        >
+          <button
+            disabled={disabled}
+            className={styles.button}
+            onClick={handleSendToHistory}
+          >
+            <p>Chat</p>
+            <WhatsAppIcon />
+          </button>
+        </a>
+      )}
     </>
   );
 }
