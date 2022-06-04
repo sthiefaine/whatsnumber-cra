@@ -6,14 +6,6 @@ import Footer from "../../components/Footer";
 
 import SearchBar from "../../components/SearchBar";
 
-import {
-  ShareIcon,
-  AddIcon,
-  AddContactIcon,
-  TrashIcon,
-  Edit2Icon,
-} from "../../icons/options";
-
 import { useSelector } from "react-redux";
 import { RootState } from "../../redux/store";
 import ListHistory from "../../components/Lists/history";
