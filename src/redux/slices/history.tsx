@@ -33,9 +33,14 @@ export const historySlice = createSlice({
     sethistorySearch: (state, action) => {
       state.historySearch = action.payload;
     },
+
+    resetHistory: (state) => {
+      state.historyNumbers = [];
+    },
   },
 });
 
-export const { addNumberToHistory, sethistorySearch } = historySlice.actions;
+export const { addNumberToHistory, sethistorySearch, resetHistory } =
+  historySlice.actions;
 
 export default historySlice.reducer;

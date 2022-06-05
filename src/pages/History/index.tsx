@@ -6,9 +6,10 @@ import Footer from "../../components/Footer";
 
 import SearchBar from "../../components/SearchBar";
 
-import { useSelector } from "react-redux";
+import { useDispatch, useSelector } from "react-redux";
 import { RootState } from "../../redux/store";
 import ListHistory from "../../components/Lists/history";
+import { resetHistory } from "../../redux/slices/history";
 
 const History = () => {
   console.log("render History");
@@ -16,6 +17,13 @@ const History = () => {
   const historyNumbers = useSelector(
     (state: RootState) => state.history.historyNumbers
   );
+
+  const dispatch = useDispatch();
+
+  const handleResetHistory = () => {
+    localStorage.removeItem("whatsNumber");
+    dispatch(resetHistory());
+  };
 
   return (
     <>
@@ -39,6 +47,9 @@ const History = () => {
             {historyNumbers.length > 0 && (
               <>
                 <SearchBar />
+                <button onClick={() => handleResetHistory()}>
+                  RESET HISTORY
+                </button>
                 <article className={styles.main__article}>
                   <ListHistory />
                 </article>
