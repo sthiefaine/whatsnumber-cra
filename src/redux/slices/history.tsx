@@ -2,9 +2,10 @@ import { createSlice, PayloadAction } from "@reduxjs/toolkit";
 const { v4: uuidv4 } = require("uuid");
 
 interface HistoryNumbers {
-  id: string;
-  historyPhoneNumber: string;
-  name: string;
+  id: any;
+  date: string;
+  number: string;
+  name?: string;
 }
 
 let initialState = {

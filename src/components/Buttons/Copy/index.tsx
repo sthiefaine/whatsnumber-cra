@@ -31,8 +31,9 @@ export default function CopyButton() {
   };
 
   const handleSendToHistory = () => {
+    console.log("test", historyNumbers?.[0]?.number);
     if (
-      historyNumbers.slice(-1)?.[0]?.number !== phoneNumberValue ||
+      historyNumbers?.[0]?.number !== phoneNumberValue ||
       historyNumbers.length === 0
     ) {
       return dispatch(addNumberToHistory(phoneNumberValue));

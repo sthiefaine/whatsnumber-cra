@@ -35,11 +35,7 @@ export default function ChatButton() {
     <>
       <>
         {disabled && (
-          <button
-            disabled={disabled}
-            className={styles.button}
-            onClick={handleSendToHistory}
-          >
+          <button disabled={disabled} className={styles.button}>
             <p>Chat</p>
             <WhatsAppIcon />
           </button>
