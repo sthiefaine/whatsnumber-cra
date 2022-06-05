@@ -10,7 +10,7 @@
   position: -webkit-sticky;
   position: sticky;
   top: 0;
-  height: 4rem;
+  min-height: 48px;
   width: 100%;
 
   display: flex;
@@ -44,7 +44,7 @@
   position: -webkit-sticky;
   position: sticky;
   bottom: 0;
-  height: 3rem;
+  min-height: 48px;
   width: 100%;
 }
 
