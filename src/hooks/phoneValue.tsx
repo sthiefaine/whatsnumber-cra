@@ -24,11 +24,11 @@ export const PhoneValue = () => {
       .replace(/[-+ ]/g, "");
     if (/^\+/.test(phoneInputValue)) {
       dispatch(setPhoneNumber(phoneInputValueFormatted));
+    } else {
+      dispatch(
+        setPhoneNumber(countryDialCodeValueFormatted + phoneInputValueFormatted)
+      );
     }
-
-    dispatch(
-      setPhoneNumber(countryDialCodeValueFormatted + phoneInputValueFormatted)
-    );
   }, [phoneInputValue, countryValue, dispatch]);
 
   return null;
